@@ -14,4 +14,4 @@ pessoa.skills.push("Aprender++")
 
 ### 🚀 Minhas Skills
 
-<img src="https://img.shields.io/static/v1?label=Overview&color=f8efd4&style=for-the-badge&logo=Javascript" alt="ilustração do nome">
+<img src="[https://img.shields.io/static/v1?label=Overview&color=f8efd4&style=for-the-badge&logo=Javascript](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" alt="ilustração do nome">
