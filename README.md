@@ -5,7 +5,7 @@ Meu nome é Mateus Gomes, atualmente estou estudando o Ensino Médio integrado a
 ```js
 let pessoa = {
   nome: "Mateus Gomes",
-  idade: 17,
+  idade: 18,
   skills: ["Design", "Desenvolvimento"],
 }
 
