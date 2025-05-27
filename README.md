@@ -24,7 +24,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscostagomes000@gmail.com)
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusgomesc/)](https://www.linkedin.com/in/mateusgomesc/)
+[![Linkedin: Mateus](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusgomesc/)](https://www.linkedin.com/in/mateusgomesc/)
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGomesc&show_icons=true&theme=dark) <br><br>
 
