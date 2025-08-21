@@ -3,8 +3,8 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
-- 🎓 Técnico em Informática - IFTM (Instituto Federal do Triângulo Mineiro)
-- 🎓 Cursando Ciência da Computação - UFU (Universidade Federal de Uberlândia)
+- 🎓 Técnico em Informática - Instituto Federal do Triângulo Mineiro (IFTM)
+- 🎓 Cursando Ciência da Computação - Universidade Federal de Uberlândia (UFU)
 
 ## 🚀 Habilidades
 
